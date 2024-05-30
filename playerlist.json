@@ -1,0 +1,14 @@
+[
+    {
+        "id": "1",
+        "pfp": "https://cdn.discordapp.com/avatars/<discord_id>/d66ff8b2f74844d626572a8c54dc72e4.webp",
+        "discordID": "alpha",
+        "mahjongSoulID": "alpha"
+    },
+    {
+        "id": "2",
+        "pfp": "https://cdn.discordapp.com/avatars/<discord_id>/d66ff8b2f74844d626572a8c54dc72e4.webp",
+        "discordID": "beta",
+        "mahjongSoulID": "beta"
+    }
+]
